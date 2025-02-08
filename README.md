@@ -1,60 +1,63 @@
-### 👾 Welcome to My GitHub Arcade! 🎮
+<h1 align="center">Hi 👋, I'm Simranjit</h1>
+<h3 align="center">A Passionate MERN Developer from India</h3>
 
-```diff
-+ 🕹️ MERN Developer from India - Leveling Up Every Day! 🚀
-```
-
----
-#### 🏆 Achievements & Stats:
-
-🎯 **Repositories**: 🏅 Hyper Repo Creator (31pt)  
-🔥 **Commits**: 🔥 Middle Committer (77pt)  
-💡 **Experience**: 👶 Junior Dev (8pt)  
-🧑‍🤝‍🧑 **Followers**: 🥇 First Friend (2pt)  
-🌟 **Stars**: ❓ Unknown  
-🐞 **Issues**: ❓ Unknown  
-✅ **Pull Requests**: ❓ Unknown  
-📝 **Reviews**: ❓ Unknown  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simranjit-2101871&label=Profile%20views&color=0e75b6&style=flat" alt="simranjit-2101871" />
+  <img src="https://img.shields.io/github/followers/simranjit-2101871?label=Followers&style=social" alt="Followers" />
+</p>
 
 ---
 
-#### 🔥 Current Quest:
-🛠️ I'm currently working on [C-highlights](https://github.com/simranjit-2101871/C-highlights)
-
-📫 **How to reach me:** [📧 Email](mailto:malhisimran49@gmail.com)
-
-🔎 **Know about my experiences:** [📜 Click here](https://drive.google.com/file/d/1CUrAoIAH27qTRg2WIyBfvc3hfMkZ2s-/view?usp=sharing)
+### 🚀 About Me:
+- 🔭 I’m currently working on **[C-Highlights](https://github.com/simranjit-2101871/C-Highlights)**
+- 📫 How to reach me: **malhisimran49@gmail.com**
+- 📄 Check out my Resume: [View Here](https://drive.google.com/file/d/1CUrAolAH27qTRg2CWlyBfvc3hfMKz2s-/view?usp=sharing)
 
 ---
 
-#### 🎮 Game Profile Links:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-profile)
-
----
-
-#### ⚔️ Skills & Tools:
-```diff
-+ 🛠️ Tech Stack Upgraded!
-```
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)
+### 🔗 Connect With Me:
+<p align="center">
+  <a href="https://linkedin.com/in/simranjit singh malhi" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/malhisimranjit49" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/malhisingh1695" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
-#### 🔥 Most Used Languages (XP Breakdown):
-```diff
-+ ⚡ XP Levels: Keep Grinding!
-```
-![C++](https://img.shields.io/badge/C++-44.45%25-brightgreen) ![C](https://img.shields.io/badge/C-8.44%25-blue) ![HTML](https://img.shields.io/badge/HTML-21.77%25-orange)
-![CSS](https://img.shields.io/badge/CSS-3.04%25-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-18.06%25-yellow) ![Handlebars](https://img.shields.io/badge/Handlebars-0.25%25-red)
+### 🛠️ Languages & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,bootstrap,git,cpp,c,postman" alt="Tech Stack" />
+</p>
 
 ---
 
-#### 🎮 Game Over? Nope! Keep Exploring 🚀
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simranjit-2101871&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simranjit-2101871&theme=radical" alt="GitHub Streak" />
+</p>
 
+---
 
+### 🔥 My Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranjit-2101871&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simranjit-2101871&theme=onedark&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🎮 Fun Fact:
+- ⚡ When not coding, I love exploring new technologies and solving DSA problems on LeetCode!
